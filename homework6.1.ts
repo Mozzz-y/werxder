@@ -74,3 +74,6 @@ async function loadUserWithPosts() {
     console.log(postResult); 
 }
 loadUserWithPosts();
+console.log(2+2);
+console.log(2+2);
+console.log(2+2);
